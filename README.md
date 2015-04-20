@@ -1,6 +1,9 @@
-# berserkJS 2.0（大名：狂暴JS / 昵称：疯子JS）
+# berserkJS 2.0 Alpha
 
 berserkJS ver 2.x build on qt 5.4.0
+
+**注意**：Alpha 版本，迁移后还未完全测试
+
 
 页面性能分析与测试自动化工具，可用 JS 编写自己的检测、分析规则，并自动执行。
 
